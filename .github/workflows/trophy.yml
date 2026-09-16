@@ -1,0 +1,33 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: # allows manual run from the Actions tab
+
+jobs:
+  generate-trophy-rank:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate trophy image
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Pappu-Roy
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+          row: 1
+          column: 7
+
+      - name: Commit trophy.svg
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --staged --quiet || git commit -m "chore: update trophy.svg"
+          git push
