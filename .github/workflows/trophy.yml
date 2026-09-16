@@ -19,7 +19,7 @@ jobs:
         with:
           username: Pappu-Roy
           file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: tokyonight
           max-rows: 1
           max-cols: 7
