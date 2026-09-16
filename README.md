@@ -36,7 +36,7 @@ I'm also experienced in **AI/ML and deep learning**, including building a Speake
 ## 💼 Work Experience
 
 **Software Engineer** — Mohasagor IT Solutions | *Dec 2025 – Present* | Dhaka, Bangladesh
-- Built and maintained production-grade full-stack apps with PHP, Laravel, Vue.js & MySQL across eCommerce, multi-tenant reselling/dropshipping, CRM & service management, and business management platforms
+- Built and maintained production-grade full-stack apps with PHP, Laravel, Vue.js & MySQL across eCommerce, multi-tenant reselling & dropshipping (**BDResellHUB**), CRM & service management (**Nayem7**), travel & tourism (**Smart Travels**), education (**PRoyAcademy**), and laundry/business management (**WashUp**) platforms
 - Designed RESTful APIs, integrated payment gateways, courier APIs, webhooks, and automated background processes for real-time business operations
 - Implemented cron-based automation for order processing, notifications, subscriptions, and data sync
 - Optimized MySQL queries and database structures; built reusable, responsive Vue.js components
@@ -62,12 +62,12 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **<a href="https://github.com/Pappu-Roy" target="_blank">BDResellHUB</a>** — Reselling & Dropshipping Platform | Scalable platform with product management, reseller operations, wallet/earnings, and automated fulfillment | Laravel, Vue.js, MySQL, REST APIs, Cron Jobs |
-| **Nayem7** — Business Licensing & Service Management | KSA-focused platform for client, service, project & provider workflows with billing and reporting | Laravel, Vue.js, MySQL, SMTP, WhatsApp Cloud API |
-| **Smart Travels** — Travel, Tour & Visa Management | Tour packages, visa services, flights, hotels, and booking/enquiry workflows | Laravel, PHP, MySQL, JavaScript, Payment Integration |
-| **WashUp** — Laundry & Dry-Cleaning Management | Online ordering, pickup/delivery scheduling, OTP verification, POS invoicing | Laravel, Vue.js, MySQL, SMS/OTP, Payment Gateway |
-| **<a href="https://github.com/Pappu-Roy" target="_blank">Pappus Classroom</a>** — AI-Powered Education Platform | Bilingual learning platform with Gemini AI content generation, quizzes & analytics | Next.js, NestJS, TypeScript, Prisma, PostgreSQL, Gemini AI |
-| **<a href="https://github.com/Pappu-Roy" target="_blank">Speaker Identification System</a>** — Voice Biometrics & Deep Learning | Voice enrollment & speaker identification using MFCC + CNN/RNN pipeline | Python, PyTorch, TorchAudio, Flask, Scikit-learn |
+| **<a href="https://bdresellhub.com/" target="_blank">BDResellHUB</a>** — Reselling & Dropshipping Platform | Scalable platform with product management, reseller operations, wallet/earnings, and automated fulfillment | Laravel, Vue.js, MySQL, REST APIs, Cron Jobs |
+| **<a href="https://nayem7.com/" target="_blank">Nayem7</a>** — Business Licensing & Service Management | KSA-focused platform for client, service, project & provider workflows with billing and reporting | Laravel, Vue.js, MySQL, SMTP, WhatsApp Cloud API |
+| **<a href="https://smarttravels.bd/" target="_blank">Smart Travels</a>** — Travel, Tour & Visa Management | Tour packages, visa services, flights, hotels, and booking/enquiry workflows | Laravel, PHP, MySQL, JavaScript, Payment Integration |
+| **<a href="https://washup.com.bd/" target="_blank">WashUp</a>** — Laundry & Dry-Cleaning Management | Online ordering, pickup/delivery scheduling, OTP verification, POS invoicing | Laravel, Vue.js, MySQL, SMS/OTP, Payment Gateway |
+| **<a href="https://proyacademy.com/" target="_blank">PRoyAcademy</a>** — AI-Powered Education Platform | Bilingual learning platform with Gemini AI content generation, quizzes & analytics | Next.js, NestJS, TypeScript, Prisma, PostgreSQL, Gemini AI |
+| **<a href="https://github.com/Pappu-Roy/Speaker-Identification-System" target="_blank">Speaker Identification System</a>** — Voice Biometrics & Deep Learning | Voice enrollment & speaker identification using MFCC + CNN/RNN pipeline | Python, PyTorch, TorchAudio, Flask, Scikit-learn |
 
 <br/>
 
@@ -142,8 +142,8 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pappu-roy&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappu-roy&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=pappu-roy&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pappu-roy&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -151,7 +151,7 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pappu-roy&theme=tokyonight&row=1&column=7&margin-w=8&no-frame=false" alt="trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pappu-roy&theme=tokyonight&row=1&column=7" alt="trophies"/>
 </p>
 
 <br/>
