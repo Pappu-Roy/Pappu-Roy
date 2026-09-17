@@ -65,8 +65,8 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 | **<a href="https://bdresellhub.com/" target="_blank">BDResellHUB</a>** — Reselling & Dropshipping Platform | Scalable platform with product management, reseller operations, wallet/earnings, and automated fulfillment | Laravel, Vue.js, MySQL, REST APIs, Cron Jobs |
 | **<a href="https://nayem7.com/" target="_blank">Nayem7</a>** — Business Licensing & Service Management | KSA-focused platform for client, service, project & provider workflows with billing and reporting | Laravel, Vue.js, MySQL, SMTP, WhatsApp Cloud API |
 | **<a href="https://smarttravels.bd/" target="_blank">Smart Travels</a>** — Travel, Tour & Visa Management | Tour packages, visa services, flights, hotels, and booking/enquiry workflows | Laravel, PHP, MySQL, JavaScript, Payment Integration |
-| **<a href="https://washup.com.bd/" target="_blank">WashUp</a>** — Laundry & Dry-Cleaning Management | Online ordering, pickup/delivery scheduling, OTP verification, POS invoicing | Laravel, Vue.js, MySQL, SMS/OTP, Payment Gateway |
 | **<a href="https://proyacademy.com/" target="_blank">PRoyAcademy</a>** — AI-Powered Education Platform | Bilingual learning platform with Gemini AI content generation, quizzes & analytics | Next.js, NestJS, TypeScript, Prisma, PostgreSQL, Gemini AI |
+| **<a href="https://washup.com.bd/" target="_blank">WashUp</a>** — Laundry & Dry-Cleaning Management | Online ordering, pickup/delivery scheduling, OTP verification, POS invoicing | Laravel, Vue.js, MySQL, SMS/OTP, Payment Gateway |
 | **<a href="https://github.com/Pappu-Roy/Speaker-Identification-System" target="_blank">Speaker Identification System</a>** — Voice Biometrics & Deep Learning | Voice enrollment & speaker identification using MFCC + CNN/RNN pipeline | Python, PyTorch, TorchAudio, Flask, Scikit-learn |
 
 <br/>
@@ -95,7 +95,7 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> -->
 </p>
 
 **Databases & Backend**
@@ -104,7 +104,7 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> -->
 </p>
 
 **AI / Data**
@@ -122,7 +122,6 @@ GPA: 5.00/5.00 · Thakurgaon, Bangladesh · Science stream
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
 <br/>
